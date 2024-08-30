@@ -40,3 +40,12 @@ b=2 </br>
 10  2  2
 
 #### Output : Abhimanyu cannot cross the Chakrvyuha
+
+
+### Time Complexity :
+If TOTAL_ENIMIES = 11 Then Time complexity will be O(11) it means <strong> Constant Time <strong/>
+#### Time Complexity : O(1)
+If TOTAL_ENIMIES = N Then 
+#### Time Complexity : O(N^3)
+
+
